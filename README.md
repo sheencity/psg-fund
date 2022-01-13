@@ -5,4 +5,4 @@ PSG's fund management
 54 coins
 
 ## Transaction
-recieve 54 coins at 2022-01-13 from @wangzishi.
+recieve 54 coins at 2022-01-13 from [Wang Zishi](https://github.com/wangzishi)
