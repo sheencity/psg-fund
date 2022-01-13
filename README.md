@@ -2,7 +2,7 @@
 PSG's fund management
 
 ## Balance
-￥1,000.00 CNY
+54 coins
 
 ## Transaction
-recieve ￥1,000.00 CNY at 2019-12-27 from psg.
+recieve 54 coins at 2022-01-13 from @wangzishi.
